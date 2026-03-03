@@ -1,5 +1,12 @@
 # Banking 2026  Fintech, AI & Data Transformation
 
+The project is available in two formats:
+
+Short Magazine-style Interactive version (flip pages) => https://my.visme.co/view/y71jmwyz-report-on-decentralization-and-fintech-transformation
+Interactive web version (animations & transitions) => https://banking-2026-fintech-ai-data-roadmap-ad3a05.gitlab.io/
+
+
+
 ## Overview
 **Banking 2026** is a visual industry briefing exploring how **AI, fintech platforms, and data ecosystems** are reshaping global financial services.
 
