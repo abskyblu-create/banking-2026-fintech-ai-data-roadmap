@@ -3,6 +3,7 @@
 The project is available in two formats:
 
 Short Magazine-style Interactive version (flip pages) => https://my.visme.co/view/y71jmwyz-report-on-decentralization-and-fintech-transformation
+
 Interactive web version (animations & transitions) => https://banking-2026-fintech-ai-data-roadmap-ad3a05.gitlab.io/
 
 
